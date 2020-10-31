@@ -24,3 +24,9 @@ Should be able to access "Team" page
     [Tags]   Test2
     log    Excuting test 2
     sleep    3s
+
+"Team" page should match requirements
+    [Documentation]    This is test 2
+    [Tags]   Test2
+    log    Excuting test 2
+    sleep    3s
